@@ -1,0 +1,6 @@
+{
+  "name": "Rajasthan Handicraft Creations",
+  "description": "Premium Handicrafts & Unique Home Decor Store from Jaipur",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
